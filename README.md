@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Shasanka146
-- I'm here to learn and share my knowledge,ideas and thought with you.
+
 - 
 
 <!---

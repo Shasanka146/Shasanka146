@@ -2,10 +2,10 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **Web Development & Open Source**  
-- 🌱 I’m learning **TypeScript, Next.js, and System Design**  
+- 🌱 I’m learning **Java,HTML,CSS,Javascript**  
 - 💬 Ask me about **JavaScript, React, and GitHub automation**  
-- 📫 Reach me at **shasanka@example.com**  
-- 🎯 Fun fact: I love coding at night 🌙  
+- 📫 Reach me at **shasankaacharya14@gmail.com**  
+- 🎯 Fun fact: I love coding while eating  
 
 ---
 
@@ -29,12 +29,5 @@
 
 ---
 
-## ⚡ Fun Projects  
-- 🌐 [Project 1](https://github.com/Shasanka146/project1) - Description of Project 1  
-- 🚀 [Project 2](https://github.com/Shasanka146/project2) - Description of Project 2  
-- 💡 [Project 3](https://github.com/Shasanka146/project3) - Description of Project 3  
 
----
-
-⭐ **Star my repos if you find them useful!** ⭐
 

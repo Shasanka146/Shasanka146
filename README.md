@@ -10,10 +10,9 @@
 ---
 
 ## 📊 GitHub Stats  
-
-                    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shasanka146&show_icons=true&theme=dark)  
-                    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shasanka146&theme=dark)  
-                    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shasanka146&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shasanka146&show_icons=true&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shasanka146&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shasanka146&layout=compact&theme=dark)  
 
 ---
 

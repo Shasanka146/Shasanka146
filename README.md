@@ -23,8 +23,11 @@
 ---
 
 ## 📌 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](www.linkedin.com/in/shasanka-acharya-a36bb1318)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://www.facebook.com/share/17w24v37yA/?mibextid=wwXIfr)  
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/shasanka-acharya-a36bb1318)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://www.facebook.com/share/1Yw24v37yA/?mibextid=wxXfr)
+
 
 ---
 

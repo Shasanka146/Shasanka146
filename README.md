@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Shasanka Acharya!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines= Web+Developer+%7C+Open+Source+Enthusiast;Learning+Java+%26+Front-End+Techs;Loves+Coding+at+Midnight+%F0%9F%8C%99;Building+Projects+that+Matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+Open+Source+Enthusiast;Learning+Java+%26+Front-End+Techs;Loves+Coding+at+Midnight+%F0%9F%8C%99;Building+Projects+that+Matter" alt="Typing SVG" />
 </p>
 
 ---
